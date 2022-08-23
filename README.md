@@ -1,41 +1,72 @@
-# 人事员工管理系统SSM1
+# 人事员工管理系统SSM
 
-#### 介绍
+## 1、项目介绍
+
 基于SSM的人事员工管理系统共有两种角色，分别为管理员和员工，功能如下：
 
 * 管理员：部门管理、员工管理、职位管理、公告管理、文档管理
 
 * 员工：查看部门、员工、职位、公告等信息
 
-#### 软件架构
-软件架构说明
+
+## 2、项目技术
+
+后端框架：SSM（Spring、SpringMVC、Mybatis）
+
+前端框架：Layui、jsp、css、JavaScript、JQuery
+
+## 3、开发环境
+
+- JAVA版本：JDK1.8，其它版本理论上可以
+- IDE类型：IDEA、Eclipse、Myeclipse都可以。推荐IDEA与Eclipse
+- tomcat版本：Tomcat 7.x、8.x、9.x、10.x版本均可
+- 数据库版本：MySql 5.x
+- maven项目：否
+- 硬件环境：Windows 或者 Mac OS
 
 
-#### 安装教程
+## 4、功能介绍
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+### 4.1登录界面
 
-#### 使用说明
+![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220508205543.png)
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+管理员和职工均可以通过此页面登录至不同的功能主页。
 
-#### 参与贡献
+### 4.2管理员功能模块
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+![管理员-用户列表](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220508205555.png)
+
+![管理员-员工列表](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220508205558.png)
+
+![管理员-添加员工](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220508205603.png)
+
+![管理员-职位列表](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220508205609.png)
+
+- 用户管理的功能包括：添加用户;查询用户，可以查询所有用户或根据用户名和用户状态进行模糊查询，删除、修改用户
+- 部门管理的功能包括：添加部门，查询部门，可以查询所有部门或根据部门名称进行模糊查询，删除部门，修改部门
+- 职位管理的功能包括：添加职位，查询职位，可以查询所有职位或根据职位名称进行模糊查询，删除职位，修改职位
+- 员工管理的功能包括：添加员工，查询员工，可以查询所有员工或根据员工姓名，身份证号，手机号，性别，职位，部门进行模糊查询，删除员工，修改员工
+- 公告管理的功能包括：添加公告，查询公告，可以查询所有公告或根据公告名称，公告内容进行模糊查询，删除公告，修改公告
+- 下载中心的功能包括：上传文件，查看文件，可以查询所有文件或根据文件标题进行模糊查询。
+
+### 4.4 职工功能模块
+
+![职工界面](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220508205654.png)
+
+职工权限受限，只可查看部门、用户、职位、公告等信息，不能修改或者添加。
+
+## 5、获取方式
+
+扫描下方，回复 “**员工0** ” ，以获取源码
 
 
-#### 特技
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+![https://gitee.com/二维码](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220507213933.jpg)
+
+
+
+
+
+
+

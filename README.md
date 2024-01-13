@@ -1,4 +1,4 @@
-# 人事员工管理系统SSM
+# 人事员工管理系统SSM0
 
 ## 1、项目介绍
 
@@ -29,19 +29,19 @@
 
 ### 4.1登录界面
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220508205543.png)
+![登录](https://www.codeshop.fun/Typora-Images/20220508205543.png)
 
 管理员和职工均可以通过此页面登录至不同的功能主页。
 
 ### 4.2管理员功能模块
 
-![管理员-用户列表](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220508205555.png)
+![管理员-用户列表](https://www.codeshop.fun/Typora-Images/20220508205555.png)
 
-![管理员-员工列表](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220508205558.png)
+![管理员-员工列表](https://www.codeshop.fun/Typora-Images/20220508205558.png)
 
-![管理员-添加员工](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220508205603.png)
+![管理员-添加员工](https://www.codeshop.fun/Typora-Images/20220508205603.png)
 
-![管理员-职位列表](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220508205609.png)
+![管理员-职位列表](https://www.codeshop.fun/Typora-Images/20220508205609.png)
 
 - 用户管理的功能包括：添加用户;查询用户，可以查询所有用户或根据用户名和用户状态进行模糊查询，删除、修改用户
 - 部门管理的功能包括：添加部门，查询部门，可以查询所有部门或根据部门名称进行模糊查询，删除部门，修改部门
@@ -52,21 +52,12 @@
 
 ### 4.4 职工功能模块
 
-![职工界面](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220508205654.png)
+![职工界面](https://www.codeshop.fun/Typora-Images/20220508205654.png)
 
 职工权限受限，只可查看部门、用户、职位、公告等信息，不能修改或者添加。
 
-## 5、获取方式
+## 获取方式
 
-扫描下方，回复 “**员工0** ” ，以获取源码
+下方扫一扫关注后，后台回复关键词：**员工**，查看导入教程视频、sql脚本和源码等
 
-
-
-![https://gitee.com/二维码](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220507213933.jpg)
-
-
-
-
-
-
-
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
